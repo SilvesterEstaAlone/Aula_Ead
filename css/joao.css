@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Trade+Winds&display=swap");
+.degra {
+    background-image: linear-gradient(to bottom right, #b7410e, #696969);
+}
+
+.text-title {
+    font-family: 'Trade Winds', 'Roboto';
+    font-size: 2.2em;
+    color: #ffffff;
+}
+
+.text-subtitle {
+    font-family: 'Odibee Sans', sans-serif;
+    font-size: 2em;
+    color: #ffffff;
+}
+
+.mdi-jao {
+    color: #22A7F0;
+    font-size: 64px;
+}
+
+.mdi-zap {
+    color: #26C281;
+    font-size: 64px;
+}
+
+.mdi-insta {
+    color: #ffffff;
+    font-size: 64px;
+}
+
+.bg-title {
+    /* background-image: linear-gradient(to bottom right, #192a56, #40739e); */
+    background: url('../img/ban.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.textin {
+    font-size: 25px;
+}
+
+.si {
+    height: 9em;
+}
+
+body {
+    background-color: #696969;
+}
+
+.bg-cinz {
+    background-color: #696969;
+}
